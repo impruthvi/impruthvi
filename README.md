@@ -1,0 +1,48 @@
+### Hi there 👋
+
+## I'm Pruthvisinh.
+
+### 💻 &nbsp;About Me
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying Software Engineering at SAFFRONY INSTITUTE OF TECHNOLOGY.
+
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclips-333333?style=flat&logo=Eclipse&logoColor=007ACC)
+
+## My Stats
+
+<p>
+<a href="https://github.com/impruthvi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=impruthvi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pruthvi-rajput-9a4711194/"><img src="https://img.shields.io/badge/-Pruthvisinh%20Rajput-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pruthvirajput97@gmail.com"><img src="https://img.shields.io/badge/-pruthvirajput97@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
