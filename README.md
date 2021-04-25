@@ -1,11 +1,11 @@
 ### Hi there 👋
-
 ## I'm Pruthvisinh.
 
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at SAFFRONY INSTITUTE OF TECHNOLOGY.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -46,7 +46,6 @@
 </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/pruthvi-rajput-9a4711194/"><img src="https://img.shields.io/badge/-Pruthvisinh%20Rajput-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pruthvirajput97@gmail.com"><img src="https://img.shields.io/badge/-pruthvirajput97@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
