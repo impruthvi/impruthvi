@@ -4,7 +4,7 @@
 ### 💻 &nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at SAFFRONY INSTITUTE OF TECHNOLOGY.
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
