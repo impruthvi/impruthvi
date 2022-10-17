@@ -10,10 +10,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
