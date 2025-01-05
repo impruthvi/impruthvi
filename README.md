@@ -11,39 +11,41 @@
 
 ## 🧰 About Me
 
-I'm a passionate developer focused on bridging traditional web development with Web3 technologies. I specialize in:
+I'm an enthusiastic Full-Stack & Web3 Developer with a growing focus on blockchain technologies. I specialize in:
 
 - Building modern web applications with React and TypeScript
 - Developing robust backend systems with Node.js and PHP/Laravel
-- Creating decentralized applications (dApps) using Solidity and Web3 tools
-- Implementing clean, scalable architectures for both Web2 and Web3 projects
+- Learning and creating decentralized applications (dApps) using Solidity, Web3.js, and Ethereum
+- Exploring DeFi protocols and blockchain architectures
+
+I am passionate about bridging traditional web development with emerging Web3 technologies and continually expanding my knowledge in this exciting space.
 
 ## 💻 Technical Stack
 
 ```typescript
 export const TechStack = {
-    web3: {
-        smart_contracts: ["Solidity"],
-        frameworks: ["wagmi", "viem", "ethers.js", "web3.js"],
-        tools: ["Forge", "Foundry"],
-        testing: ["Forge Tests", "Fuzzing"],
-        protocols: ["ERC20", "ERC721", "ERC1155"],
-    },
-    frontend: {
-        core: ["React", "Next.js", "TypeScript"],
-        state: ["Redux", "zustand", "React Query"],
-        styling: ["Tailwind CSS", "Styled Components"],
-    },
-    backend: {
-        javascript: ["Node.js", "Express", "NestJS"],
-        php: ["Laravel"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    },
-    tools: {
-        orm: ["Prisma", "Mongoose", "Drizzle"],
-        version_control: ["Git", "GitHub"],
-        deployment: ["Docker", "AWS", "Vercel"],
-    }
+  frontend: {
+    core: ["React", "Next.js", "TypeScript"],
+    state: ["Redux", "zustand", "React Query"],
+    styling: ["Tailwind CSS", "Styled Components"],
+  },
+  backend: {
+    javascript: ["Node.js", "Express", "NestJS", "Hono.js"],
+    php: ["Laravel"],
+    database: ["MySQL", "MongoDB", "PostgreSQL"],
+  },
+  web3: {
+    smart_contracts: ["Solidity"],
+    tools: ["wagmi", "ethers.js", "Forge", "Foundry"],
+    testing: ["Forge Tests"],
+    protocols: ["ERC20", "ERC721"],
+  },
+  tools: {
+    orm: ["Prisma", "Mongoose", "Drizzle"],
+    version_control: ["Git", "GitHub"],
+    deployment: ["Docker", "AWS (ASG, S3, EC2)", "Vercel"],
+    devops: ["CI/CD", "Kubernetes", "Cloudflare Workers"],
+  },
 } as const;
 ```
 
@@ -53,17 +55,15 @@ export const TechStack = {
 mindmap
   root((Technical Focus))
     Web3 Development
-      Forge/Foundry
       Smart Contracts
-      DeFi Protocols
+      Ethereum & Layer-2 Solutions
       wagmi Integration
     Frontend Excellence
       React Patterns
       TypeScript
-      Performance
+      Performance Optimization
     Backend Architecture
       Node.js/Express
-      Laravel
       API Design
 ```
 
@@ -80,32 +80,34 @@ mindmap
 <details>
 <summary>View Projects</summary>
 
-### 🔗 Web3 Ventures
-- Developing smart contracts with Forge/Foundry toolchain
-- Building dApps with React, wagmi, and Solidity
-- Implementing robust contract testing with Forge
-- Creating DeFi protocol integrations
-- Gas-optimized contract development
+### 🔗 Web3 Ventures (Learning Phase)
+
+- **Learning Smart Contracts**: Exploring Solidity and developing simple smart contracts.
+- **Building dApps**: Learning how to interact with the blockchain using Web3.js and building basic decentralized applications.
+- **Exploring Ethereum**: Familiarizing myself with Ethereum-based development and blockchain integration.
 
 ### 🚀 Full-Stack Applications
-- Complex React/TypeScript applications
-- Scalable Node.js backend systems
-- Laravel-based enterprise solutions
-- Real-time data processing systems
+
+- **React/TypeScript Applications**: Developing full-stack applications with a focus on performance and scalability.
+- **Node.js Backend Systems**: Building robust APIs with Node.js and Express.
+- **Laravel Solutions**: Developing full-stack solutions using Laravel for the backend.
 
 ### 🔧 Development Tools
-- Custom React hooks and components
-- CLI tools for development workflow
-- Reusable smart contract templates
-- API integration libraries
+- **AWS Services**: Working with AWS Auto Scaling Groups (ASG), S3 for storage, EC2 instances for compute.
+- **Cloudflare Workers**: Building serverless applications with Cloudflare Workers.
+- **CI/CD**: Implementing continuous integration and deployment pipelines with GitHub Actions and Jenkins.
+- **Kubernetes**: Familiar with Kubernetes concepts for container orchestration and scaling.
+
+
 </details>
 
 ## 🛠️ Recent Web3 Learning Path
-- Advanced Smart Contract Development with Forge
-- Gas Optimization and Security Best Practices
-- Web3 Frontend Integration using wagmi
-- DeFi Protocol Architecture
-- Foundry Testing and Fuzzing Techniques
+
+- **Introduction to Smart Contracts with Solidity**
+- **Ethereum Blockchain Basics**
+- **dApp Development with React and Web3.js**
+- **Exploring DeFi Concepts and Protocols**
+- **Web3 Frontend Integration using wagmi**
 
 ## 📫 Let's Connect
 
