@@ -3,7 +3,9 @@
     <h3>I'm Pruthvisinh Rajput | Full-Stack & Web3 Developer</h3>
 </div>
 
-![Coding Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500">
+</div>
 
 > "The best code is the one that's both reliable and maintainable."
 
@@ -23,7 +25,7 @@ export const TechStack = {
     web3: {
         smart_contracts: ["Solidity"],
         frameworks: ["wagmi", "viem", "ethers.js", "web3.js"],
-        tools: ["Forge", "Foundry"],  // Updated to Forge/Foundry
+        tools: ["Forge", "Foundry"],
         testing: ["Forge Tests", "Fuzzing"],
         protocols: ["ERC20", "ERC721", "ERC1155"],
     },
