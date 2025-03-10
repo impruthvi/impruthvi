@@ -67,14 +67,6 @@ mindmap
       API Design
 ```
 
-## 📈 GitHub Activity
-
-<div align="center">
-    
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=dracula)](https://github.com/impruthvi)
-    
-</div>
-
 ## 🌟 Featured Projects
 
 <details>
@@ -114,7 +106,7 @@ mindmap
 <div align="center">
 
 [<img src="https://img.shields.io/badge/Portfolio-impruthvi.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>](https://impruthvi.me)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pruthvi-rajput-9a4711194/)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pruthvisinh-rajput-9a4711194/)
 [<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x&logoColor=white"/>](https://twitter.com/impruthvi13)
 [<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:pruthvirajput97@gmail.com)
 
