@@ -12,27 +12,15 @@
 
 <br>
 
-> "Crafting scalable, high-performance web applications with clean architecture and modern technologies."
+## 👨‍💻 About Me
 
-## About Me
+Senior Full-Stack Developer with 4+ years of experience building scalable web applications. Passionate about clean code, modern architecture, and delivering robust solutions across the entire technology stack.
 
-Senior Full-Stack Developer with 4+ years of professional experience building production-grade applications. Currently at **Vivansh Infotech**, where I architect and deliver robust solutions across the entire technology stack.
+🔭 Specializing in React, Next.js, Node.js, TypeScript, and cloud infrastructure  
+🌱 Building production-grade applications with modern best practices  
+⚡ Focused on performance, scalability, and developer experience
 
-**Core Expertise:**
-- Full-stack development with React, Next.js, TypeScript, and Node.js
-- Backend development with Laravel, Express, and NestJS
-- Database design and optimization (MySQL, MongoDB, PostgreSQL)
-- Cloud infrastructure and deployment (AWS EC2, S3, Auto Scaling)
-- CI/CD pipelines, Docker containerization, and DevOps practices
-- RESTful API design and microservices architecture
-
-**Professional Highlights:**
-- 4+ years of hands-on development experience delivering production applications
-- Strong expertise in modern JavaScript/TypeScript ecosystems
-- Proven track record in building scalable, maintainable codebases
-- Experience with cloud platforms and automated deployment workflows
-
-## Technical Stack
+## 🛠️ Tech Stack
 
 ```typescript
 const techStack = {
@@ -40,7 +28,6 @@ const techStack = {
     core: ["React.js", "Next.js", "TypeScript", "JavaScript (ES6+)"],
     stateManagement: ["Redux", "Zustand", "React Query", "Context API"],
     styling: ["Tailwind CSS", "Styled Components", "CSS3", "SCSS"],
-    ui: ["Responsive Design", "Component Libraries", "Accessibility"],
   },
   
   backend: {
@@ -57,18 +44,15 @@ const techStack = {
     deployment: ["Vercel", "AWS Deployment", "Cloudflare Workers"],
   },
   
-  toolsAndPractices: {
-    versionControl: ["Git", "GitHub", "GitFlow"],
-    testing: ["Unit Testing", "Integration Testing", "Test Automation"],
-    architecture: ["RESTful API Design", "Microservices", "MVC Pattern"],
-    development: ["Agile Methodologies", "Code Review", "Technical Documentation"],
+  tools: {
+    versionControl: ["Git", "GitHub"],
+    testing: ["Unit Testing", "Integration Testing"],
+    architecture: ["RESTful API", "Microservices", "MVC"],
   },
 };
 ```
 
 <div align="center">
-
-### 🛠️ Tech Stack Badges
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -100,100 +84,12 @@ const techStack = {
 
 </div>
 
-## Professional Experience
+## 💼 Experience
 
-### Senior Full-Stack Developer
-**Vivansh Infotech** | Apr 2021 - Present
+**Senior Full-Stack Developer** | Apr 2021 - Present  
+Building scalable web applications with modern tech stack. Specialized in full-stack development, cloud infrastructure, and CI/CD automation.
 
-Leading full-stack development initiatives and delivering scalable web applications:
-
-**Responsibilities & Achievements:**
-- Design and develop full-stack applications using React, Next.js, Node.js, and Laravel
-- Architect RESTful APIs and implement efficient database schemas (MySQL, MongoDB, PostgreSQL)
-- Build responsive, performant frontend interfaces with modern React patterns and TypeScript
-- Deploy and manage production infrastructure on AWS (EC2, S3, Auto Scaling Groups)
-- Implement CI/CD pipelines for automated testing and deployment workflows
-- Optimize application performance through code splitting, lazy loading, and caching strategies
-- Collaborate with cross-functional teams to deliver high-quality software solutions
-- Participate in code reviews and maintain coding standards across the team
-
-**Technical Impact:**
-- Successfully delivered multiple production applications serving real-world users
-- Implemented scalable architectures handling growing traffic and data loads
-- Reduced deployment friction through automated CI/CD implementations
-- Enhanced code quality and maintainability through TypeScript adoption
-
-## Key Projects & Work
-
-<details>
-<summary><b>Enterprise Web Applications</b></summary>
-
-### Full-Stack Applications
-**Stack:** React, Next.js, TypeScript, Node.js, Express, Laravel
-
-- Developed end-to-end web applications with modern frontend and robust backend systems
-- Implemented authentication, authorization, and role-based access control
-- Integrated third-party APIs, payment gateways, and external services
-- Built real-time features using WebSockets and event-driven architectures
-- Optimized performance for fast load times and smooth user experiences
-
-### Backend & API Development
-**Stack:** Node.js, Express, NestJS, Laravel, MySQL, MongoDB
-
-- Designed and implemented RESTful APIs following industry best practices
-- Built scalable backend services with proper error handling and validation
-- Implemented database optimization techniques for improved query performance
-- Created comprehensive API documentation for frontend integration
-- Handled data migrations, seeding, and database schema management
-
-### Cloud Infrastructure & Deployment
-**Stack:** AWS (EC2, S3, ASG), Docker, CI/CD, GitHub Actions
-
-- Deployed production applications on AWS infrastructure
-- Configured auto-scaling groups for handling variable traffic loads
-- Containerized applications using Docker for consistent deployments
-- Set up automated CI/CD pipelines for streamlined release processes
-- Implemented monitoring and logging for production systems
-
-### Frontend Excellence
-**Stack:** React, TypeScript, Tailwind CSS, Redux, React Query
-
-- Built responsive, mobile-first user interfaces
-- Implemented state management solutions for complex application states
-- Optimized rendering performance and reduced bundle sizes
-- Created reusable component libraries and design systems
-- Ensured cross-browser compatibility and accessibility standards
-
-</details>
-
-## Current Focus & Growth Areas
-
-```mermaid
-mindmap
-  root((Full-Stack Mastery))
-    Frontend Engineering
-      Advanced React Patterns
-      Performance Optimization
-      Modern CSS Architecture
-      TypeScript Best Practices
-    Backend Architecture
-      Microservices Design
-      Database Optimization
-      API Security
-      Scalability Patterns
-    Cloud & Infrastructure
-      AWS Services
-      Container Orchestration
-      Serverless Computing
-      Infrastructure as Code
-    Professional Growth
-      System Design
-      Clean Architecture
-      Team Collaboration
-      Technical Leadership
-```
-
-## Education
+## 🎓 Education
 
 **Bachelor of Computer Engineering**  
 Gujarat Technological University | June 2018 - June 2022  
@@ -240,8 +136,6 @@ CGPA: 8.65 / 10.00 | Mehsana, Gujarat
 <div align="center">
     
 *"Building robust, scalable applications with clean code and modern best practices."*
-    
-📍 Open to collaborations and interesting projects
     
 </div>
 
