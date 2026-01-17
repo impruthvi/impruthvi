@@ -97,19 +97,28 @@ CGPA: 8.65 / 10.00 | Mehsana, Gujarat
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=impruthvi&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=impruthvi&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Automating Your Laravel Server on AWS with CloudFormation](https://www.impruthvi.me/posts/automating-laravel-server-on-aws-with-cloudformation) - Sun Aug 17 2025 12:00 AM- [Laravel Wayfinder - Type-Safe API Calls Between Laravel and TypeScript](https://www.impruthvi.me/posts/introduction-laravel-wayfinder) - Thu Apr 03 2025 12:00 AM- [Exploring XState Store for State Management](https://www.impruthvi.me/posts/introduction-xstate-store) - Thu Dec 26 2024 12:00 AM- [Mastering Confirmation Dialogs in React and Next.js - A Hook-Based Approach](https://www.impruthvi.me/posts/confirmation-dialogs) - Sat Nov 30 2024 12:00 AM- [Introduction to NextJs](https://www.impruthvi.me/posts/introduction-to-nextjs) - Sat Aug 10 2024 12:00 AM<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Automating Your Laravel Server on AWS with CloudFormation](https://www.impruthvi.me/posts/automating-laravel-server-on-aws-with-cloudformation) - Sun Aug 17 2025 12:00 AM
+- [Laravel Wayfinder - Type-Safe API Calls Between Laravel and TypeScript](https://www.impruthvi.me/posts/introduction-laravel-wayfinder) - Thu Apr 03 2025 12:00 AM
+- [Exploring XState Store for State Management](https://www.impruthvi.me/posts/introduction-xstate-store) - Thu Dec 26 2024 12:00 AM
+- [Mastering Confirmation Dialogs in React and Next.js - A Hook-Based Approach](https://www.impruthvi.me/posts/confirmation-dialogs) - Sat Nov 30 2024 12:00 AM
+- [Introduction to NextJs](https://www.impruthvi.me/posts/introduction-to-nextjs) - Sat Aug 10 2024 12:00 AM
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all posts on my blog](https://www.impruthvi.me/posts)
 
