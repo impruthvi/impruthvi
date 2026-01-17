@@ -89,26 +89,6 @@ const techStack = {
 **Senior Full-Stack Developer** | Apr 2021 - Present  
 Building scalable web applications with modern tech stack. Specialized in full-stack development, cloud infrastructure, and CI/CD automation.
 
-## 🎓 Education
-
-**Bachelor of Computer Engineering**  
-Gujarat Technological University | June 2018 - June 2022  
-CGPA: 8.65 / 10.00 | Mehsana, Gujarat
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=impruthvi&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
 
 ## 📝 Latest Blog Posts
 
