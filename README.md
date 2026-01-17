@@ -84,12 +84,6 @@ const techStack = {
 
 </div>
 
-## 💼 Experience
-
-**Senior Full-Stack Developer** | Apr 2021 - Present  
-Building scalable web applications with modern tech stack. Specialized in full-stack development, cloud infrastructure, and CI/CD automation.
-
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
