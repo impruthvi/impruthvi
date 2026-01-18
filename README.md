@@ -86,13 +86,7 @@ const techStack = {
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Automating Your Laravel Server on AWS with CloudFormation](https://www.impruthvi.me/posts/automating-laravel-server-on-aws-with-cloudformation) - Sun Aug 17 2025 12:00 AM
-- [Laravel Wayfinder - Type-Safe API Calls Between Laravel and TypeScript](https://www.impruthvi.me/posts/introduction-laravel-wayfinder) - Thu Apr 03 2025 12:00 AM
-- [Exploring XState Store for State Management](https://www.impruthvi.me/posts/introduction-xstate-store) - Thu Dec 26 2024 12:00 AM
-- [Mastering Confirmation Dialogs in React and Next.js - A Hook-Based Approach](https://www.impruthvi.me/posts/confirmation-dialogs) - Sat Nov 30 2024 12:00 AM
-- [Introduction to NextJs](https://www.impruthvi.me/posts/introduction-to-nextjs) - Sat Aug 10 2024 12:00 AM
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Automating Your Laravel Server on AWS with CloudFormation](https://www.impruthvi.me/posts/automating-laravel-server-on-aws-with-cloudformation) - Sun Aug 17 2025 12:00 AM- [Laravel Wayfinder - Type-Safe API Calls Between Laravel and TypeScript](https://www.impruthvi.me/posts/introduction-laravel-wayfinder) - Thu Apr 03 2025 12:00 AM- [Exploring XState Store for State Management](https://www.impruthvi.me/posts/introduction-xstate-store) - Thu Dec 26 2024 12:00 AM- [Mastering Confirmation Dialogs in React and Next.js - A Hook-Based Approach](https://www.impruthvi.me/posts/confirmation-dialogs) - Sat Nov 30 2024 12:00 AM- [Introduction to NextJs](https://www.impruthvi.me/posts/introduction-to-nextjs) - Sat Aug 10 2024 12:00 AM<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all posts on my blog](https://www.impruthvi.me/posts)
 
