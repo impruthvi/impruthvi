@@ -1,5 +1,7 @@
+# Pruthvisinh Rajput — Software Engineer (Laravel · PHP · Full Stack)
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pruthvisinh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pruthvisinh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Pruthvisinh Rajput - Software Engineer specializing in Laravel and PHP" />
 </div>
 
 <div align="center">
@@ -14,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-Senior Full-Stack Developer with 4+ years of experience building scalable web applications. Passionate about clean code, modern architecture, and delivering robust solutions across the entire technology stack.
+Software Engineer with 4+ years building production web applications. Focused on Laravel, PHP, and backend systems — APIs, SaaS platforms, and cloud infrastructure. Based in India.
 
-🔭 Specializing in React, Next.js, Node.js, TypeScript, and cloud infrastructure  
-🌱 Building production-grade applications with modern best practices  
-⚡ Focused on performance, scalability, and developer experience
+🔭 Specializing in Laravel, PHP, MySQL, REST APIs, and AWS  
+🌱 Also work across the stack with React, Next.js, Node.js, and TypeScript  
+⚡ Focused on clean code, performance, and shipping things that work
 
 ## 🛠️ Tech Stack
 
@@ -33,10 +35,11 @@ Senior Full-Stack Developer with 4+ years of experience building scalable web ap
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **Cloud & DevOps**  
@@ -54,18 +57,21 @@ Senior Full-Stack Developer with 4+ years of experience building scalable web ap
 
 </div>
 
+**Core:** Laravel · PHP · MySQL · Redis · Eloquent · REST APIs · AWS · Docker  
+**Also:** React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pruthvisinh Rajput GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Pruthvisinh Rajput top languages" height="180" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="Pruthvisinh Rajput GitHub streak" />
 
 </div>
 
