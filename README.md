@@ -1,79 +1,25 @@
 # Pruthvisinh Rajput — Software Engineer (Laravel · PHP · Full Stack)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pruthvisinh%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Pruthvisinh Rajput - Software Engineer specializing in Laravel and PHP" />
-</div>
+### Hi there 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Pruthvisinh+Rajput;Senior+Full-Stack+Developer;Building+Production-Grade+Applications" alt="Typing SVG" />
-</div>
+##### I'm Pruthvisinh, Software Engineer focused on Laravel, PHP, and backend systems. Building production-grade APIs, SaaS platforms, and cloud infrastructure. Based in India. 🇮🇳
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=impruthvi.impruthvi&left_color=teal&right_color=green" alt="Visitors" />
-</div>
+<a href="https://impruthvi.me" target="_blank">
+  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/pruthvisinh-rajput-9a4711194/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/impruthvi13" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:pruthvirajput97@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br>
+---
 
-## 👨‍💻 About Me
-
-Software Engineer with 4+ years building production web applications. Focused on Laravel, PHP, and backend systems — APIs, SaaS platforms, and cloud infrastructure. Based in India.
-
-🔭 Specializing in Laravel, PHP, MySQL, REST APIs, and AWS  
-🌱 Also work across the stack with React, Next.js, Node.js, and TypeScript  
-⚡ Focused on clean code, performance, and shipping things that work
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-**Core:** Laravel · PHP · MySQL · Redis · Eloquent · REST APIs · AWS · Docker  
-**Also:** React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pruthvisinh Rajput GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Pruthvisinh Rajput top languages" height="180" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="Pruthvisinh Rajput GitHub streak" />
-
-</div>
-
-## ⚡ Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622934546) in [laravel/boost](https://github.com/laravel/boost)
@@ -83,7 +29,9 @@ Software Engineer with 4+ years building production web applications. Focused on
 5. 💪 Opened PR [#839](https://github.com/laravel/boost/pull/839) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
 
-## 📝 Latest Blog Posts
+---
+
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://impruthvi.me/posts/laravel-starter-kits-build-automation) - Apr 19, 2026
@@ -93,26 +41,4 @@ Software Engineer with 4+ years building production web applications. Focused on
 - [laramail v1.3.0 — Log Transport, Custom Providers & Always-To Redirect](https://impruthvi.me/posts/laramail-v1.3.0-developer-experience) - Mar 15, 2026
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read all posts on my blog](https://www.impruthvi.me/posts)
-
-## Let's Connect
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Portfolio-impruthvi.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>](https://impruthvi.me)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pruthvisinh-rajput-9a4711194/)
-[<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x&logoColor=white"/>](https://twitter.com/impruthvi13)
-[<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:pruthvirajput97@gmail.com)
-
-</div>
-
-
-<div align="center">
-    
-*"Building robust, scalable applications with clean code and modern best practices."*
-    
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
-</div>
+➡️ [Read all posts](https://www.impruthvi.me/posts)
