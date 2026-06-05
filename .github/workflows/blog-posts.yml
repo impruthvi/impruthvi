@@ -20,3 +20,4 @@ jobs:
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
           template: "- [$title]($url) - $date"
+          date_format: "MMM DD, YYYY"

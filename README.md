@@ -22,36 +22,6 @@ Senior Full-Stack Developer with 4+ years of experience building scalable web ap
 
 ## 🛠️ Tech Stack
 
-```typescript
-const techStack = {
-  frontend: {
-    core: ["React.js", "Next.js", "TypeScript", "JavaScript (ES6+)"],
-    stateManagement: ["Redux", "Zustand", "React Query", "Context API"],
-    styling: ["Tailwind CSS", "Styled Components", "CSS3", "SCSS"],
-  },
-  
-  backend: {
-    nodejs: ["Node.js", "Express.js", "NestJS", "Hono.js"],
-    php: ["Laravel", "RESTful APIs"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
-    orm: ["Prisma", "Mongoose", "Drizzle", "Eloquent"],
-  },
-  
-  cloudDevOps: {
-    aws: ["EC2", "S3", "Auto Scaling Groups", "Lambda"],
-    containerization: ["Docker", "Container Orchestration"],
-    cicd: ["GitHub Actions", "Jenkins", "Automated Pipelines"],
-    deployment: ["Vercel", "AWS Deployment", "Cloudflare Workers"],
-  },
-  
-  tools: {
-    versionControl: ["Git", "GitHub"],
-    testing: ["Unit Testing", "Integration Testing"],
-    architecture: ["RESTful API", "Microservices", "MVC"],
-  },
-};
-```
-
 <div align="center">
 
 **Frontend**  
@@ -84,9 +54,35 @@ const techStack = {
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=impruthvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impruthvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impruthvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://impruthvi.me/posts/laravel-starter-kits-build-automation) - Sun Apr 19 2026 12:00 AM- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://impruthvi.me/posts/laravel-cloud-neondb-side-project) - Mon Apr 06 2026 12:00 AM- [I got tired of janky nodemailer mocks on every project](https://impruthvi.me/posts/i-got-tired-of-janky-nodemailer-mocks) - Mon Mar 30 2026 12:00 AM- [I Got Tired of Rewriting My Email Code Every Time I Switched Providers](https://impruthvi.me/posts/i-built-laravel-style-mail-for-nodejs) - Sat Mar 28 2026 12:00 AM- [laramail v1.3.0 — Log Transport, Custom Providers &amp; Always-To Redirect](https://impruthvi.me/posts/laramail-v1.3.0-developer-experience) - Sun Mar 15 2026 12:00 AM<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://impruthvi.me/posts/laravel-starter-kits-build-automation) - Apr 19, 2026
+- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://impruthvi.me/posts/laravel-cloud-neondb-side-project) - Apr 06, 2026
+- [I got tired of janky nodemailer mocks on every project](https://impruthvi.me/posts/i-got-tired-of-janky-nodemailer-mocks) - Mar 30, 2026
+- [I Got Tired of Rewriting My Email Code Every Time I Switched Providers](https://impruthvi.me/posts/i-built-laravel-style-mail-for-nodejs) - Mar 28, 2026
+- [laramail v1.3.0 — Log Transport, Custom Providers & Always-To Redirect](https://impruthvi.me/posts/laramail-v1.3.0-developer-experience) - Mar 15, 2026
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all posts on my blog](https://www.impruthvi.me/posts)
 
