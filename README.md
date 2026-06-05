@@ -72,6 +72,11 @@ Senior Full-Stack Developer with 4+ years of experience building scalable web ap
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622934546) in [laravel/boost](https://github.com/laravel/boost)
+2. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622911862) in [laravel/boost](https://github.com/laravel/boost)
+3. 🎉 Merged PR [#840](https://github.com/laravel/boost/pull/840) in [laravel/boost](https://github.com/laravel/boost)
+4. 💪 Opened PR [#840](https://github.com/laravel/boost/pull/840) in [laravel/boost](https://github.com/laravel/boost)
+5. 💪 Opened PR [#839](https://github.com/laravel/boost/pull/839) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
