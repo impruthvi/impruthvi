@@ -33,12 +33,6 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://impruthvi.me/posts/laravel-starter-kits-build-automation) - Apr 19, 2026
-- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://impruthvi.me/posts/laravel-cloud-neondb-side-project) - Apr 06, 2026
-- [I got tired of janky nodemailer mocks on every project](https://impruthvi.me/posts/i-got-tired-of-janky-nodemailer-mocks) - Mar 30, 2026
-- [I Got Tired of Rewriting My Email Code Every Time I Switched Providers](https://impruthvi.me/posts/i-built-laravel-style-mail-for-nodejs) - Mar 28, 2026
-- [laramail v1.3.0 — Log Transport, Custom Providers & Always-To Redirect](https://impruthvi.me/posts/laramail-v1.3.0-developer-experience) - Mar 15, 2026
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://impruthvi.me/posts/laravel-starter-kits-build-automation) - 000 DD, YYYY- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://impruthvi.me/posts/laravel-cloud-neondb-side-project) - 000 DD, YYYY- [I got tired of janky nodemailer mocks on every project](https://impruthvi.me/posts/i-got-tired-of-janky-nodemailer-mocks) - 000 DD, YYYY- [I Got Tired of Rewriting My Email Code Every Time I Switched Providers](https://impruthvi.me/posts/i-built-laravel-style-mail-for-nodejs) - 000 DD, YYYY- [laramail v1.3.0 — Log Transport, Custom Providers &amp; Always-To Redirect](https://impruthvi.me/posts/laramail-v1.3.0-developer-experience) - 000 DD, YYYY<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read all posts](https://www.impruthvi.me/posts)
