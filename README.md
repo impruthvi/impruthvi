@@ -22,11 +22,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622934546) in [laravel/boost](https://github.com/laravel/boost)
-2. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622911862) in [laravel/boost](https://github.com/laravel/boost)
-3. 🎉 Merged PR [#840](https://github.com/laravel/boost/pull/840) in [laravel/boost](https://github.com/laravel/boost)
-4. 💪 Opened PR [#840](https://github.com/laravel/boost/pull/840) in [laravel/boost](https://github.com/laravel/boost)
-5. 💪 Opened PR [#839](https://github.com/laravel/boost/pull/839) in [laravel/boost](https://github.com/laravel/boost)
+1. 🎉 Merged PR [#12](https://github.com/shipfastlabs/parsel/pull/12) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+2. 🎉 Merged PR [#11](https://github.com/shipfastlabs/parsel/pull/11) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
+3. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622934546) in [laravel/boost](https://github.com/laravel/boost)
+4. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622911862) in [laravel/boost](https://github.com/laravel/boost)
+5. 🎉 Merged PR [#840](https://github.com/laravel/boost/pull/840) in [laravel/boost](https://github.com/laravel/boost)
 <!--END_SECTION:activity-->
 
 ---
