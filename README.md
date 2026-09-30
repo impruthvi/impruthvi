@@ -1,38 +1,38 @@
-# Pruthvisinh Rajput — Software Engineer (Laravel · PHP · Full Stack)
+### Hi, I'm Pruthvisinh 👋
 
-### Hi there 👋
+Software engineer · Laravel, PHP, backend systems. Building APIs, SaaS, cloud infra. India 🇮🇳
 
-##### I'm Pruthvisinh, Software Engineer focused on Laravel, PHP, and backend systems. Building production-grade APIs, SaaS platforms, and cloud infrastructure. Based in India. 🇮🇳
+[Website](https://impruthvi.me) · [LinkedIn](https://www.linkedin.com/in/impruthvi/) · [X](https://x.com/impruthvi13) · [Email](mailto:pruthvirajput97@gmail.com)
 
-<a href="https://impruthvi.me" target="_blank">
-  <img src="https://img.shields.io/badge/website-%23E34F26.svg?&style=for-the-badge" />
-</a>
-<a href="https://www.linkedin.com/in/pruthvisinh-rajput-9a4711194/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/impruthvi13" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:pruthvirajput97@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+#### Building
 
----
+- [saas-foundation](https://github.com/impruthvi/saas-foundation): open-source Laravel SaaS foundation with orgs, tenant auth, subscriptions, usage
+- [cashier-dunning](https://github.com/impruthvi/cashier-dunning): replay real Stripe billing lifecycles offline to test dunning
+- [cashier-entitlements](https://github.com/impruthvi/cashier-entitlements): local entitlements + billing reconciliation for Laravel Cashier
+- [shipslip](https://github.com/impruthvi/shipslip): deploy with a receipt (early)
 
-### ⚡ Recent Activity
+#### Contributing
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#839](https://github.com/laravel/boost/pull/839) in [laravel/boost](https://github.com/laravel/boost)
-2. 🎉 Merged PR [#12](https://github.com/shipfastlabs/parsel/pull/12) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-3. 🎉 Merged PR [#11](https://github.com/shipfastlabs/parsel/pull/11) in [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel)
-4. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622934546) in [laravel/boost](https://github.com/laravel/boost)
-5. 🗣 Commented on [#839](https://github.com/laravel/boost/pull/839#issuecomment-4622911862) in [laravel/boost](https://github.com/laravel/boost)
-<!--END_SECTION:activity-->
+- [laravel/boost](https://github.com/laravel/boost/pulls?q=is%3Apr+author%3Aimpruthvi+is%3Amerged): 4 merged PRs
+- [shipfastlabs/parsel](https://github.com/shipfastlabs/parsel/pulls?q=is%3Apr+author%3Aimpruthvi+is%3Amerged): 8 merged PRs, PHP document parser
 
----
+<div align="center">
+  <a href="https://commit-history.com/impruthvi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/impruthvi?theme=dark" />
+      <img alt="impruthvi's commit history" src="https://commit-history.com/embed/impruthvi" />
+    </picture>
+  </a>
+</div>
 
-### 📝 Latest Blog Posts
+#### Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [What If AI Didn&#39;t Generate Text? Inside TypeSafe AI&#39;s Jev](https://www.impruthvi.me/notes/typesafe-ai-jev-system-one-models) - 000 DD, YYYY- [Testing Stripe Billing Lifecycles Offline in Laravel with Cashier Dunning](https://www.impruthvi.me/notes/cashier-dunning) - 000 DD, YYYY- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://www.impruthvi.me/notes/laravel-starter-kits-build-automation) - 000 DD, YYYY- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://www.impruthvi.me/notes/laravel-cloud-neondb-side-project) - 000 DD, YYYY- [I got tired of janky nodemailer mocks on every project](https://www.impruthvi.me/notes/i-got-tired-of-janky-nodemailer-mocks) - 000 DD, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [What If AI Didn&#39;t Generate Text? Inside TypeSafe AI&#39;s Jev](https://www.impruthvi.me/notes/typesafe-ai-jev-system-one-models)
+- [Testing Stripe Billing Lifecycles Offline in Laravel with Cashier Dunning](https://www.impruthvi.me/notes/cashier-dunning)
+- [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://www.impruthvi.me/notes/laravel-starter-kits-build-automation)
+- [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://www.impruthvi.me/notes/laravel-cloud-neondb-side-project)
+- [I got tired of janky nodemailer mocks on every project](https://www.impruthvi.me/notes/i-got-tired-of-janky-nodemailer-mocks)
+<!-- BLOG-POST-LIST:END -->
 
-➡️ [Read all posts](https://www.impruthvi.me/posts)
+[All posts →](https://www.impruthvi.me/posts)
