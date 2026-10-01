@@ -27,8 +27,7 @@ Software engineer · Laravel, PHP, backend systems. Building APIs, SaaS, cloud i
 
 #### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-- [What If AI Didn&#39;t Generate Text? Inside TypeSafe AI&#39;s Jev](https://www.impruthvi.me/notes/typesafe-ai-jev-system-one-models)
+<!-- BLOG-POST-LIST:START -->- [What If AI Didn&#39;t Generate Text? Inside TypeSafe AI&#39;s Jev](https://www.impruthvi.me/notes/typesafe-ai-jev-system-one-models)
 - [Testing Stripe Billing Lifecycles Offline in Laravel with Cashier Dunning](https://www.impruthvi.me/notes/cashier-dunning)
 - [How 6 Laravel Starter Kits Get Built Automatically with a Single Bash Script](https://www.impruthvi.me/notes/laravel-starter-kits-build-automation)
 - [From Supabase Latency to Near-Zero Idle Costs: My Laravel Cloud Journey](https://www.impruthvi.me/notes/laravel-cloud-neondb-side-project)
